@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Suzana. 👋
+
+- I hold a PhD in Mathematics from the University of California, Santa Cruz, and have also completed both a BS and MS in Mathematics and Computer Science from the University of Bucharest. I have a diverse range of teaching experience, currently lecturing at the University of California, Santa Cruz.
+
+- I have a strong background in coding with experience in several programming languages and frameworks. I am well-versed in Python, and have familiarity with JavaScript, C++, and MySQL. Additionally, I am skilled in using various frameworks and libraries, including NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, and Flask. 
+
+- I'm always eager to learn and keep up with the latest trends, and I would be happy to collaborate on Machine Learning projects. I believe I would be a valuable asset to any team working on advanced mathematical and technological projects.
 
 <!--
 **ssuzana/ssuzana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
+
 -->
