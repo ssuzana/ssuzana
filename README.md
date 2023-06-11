@@ -11,7 +11,7 @@
 
 Here are some ideas to get you started:
 
-
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ssuzana)](https://github.com/ssuzana/github-readme-stats)
 
 
 -->
