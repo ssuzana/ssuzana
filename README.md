@@ -8,8 +8,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssuzana&layout=compact)
 
-
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ssuzana)](https://github.com/ssuzana/github-readme-stats)
 <!--
 **ssuzana/ssuzana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ssuzana)](https://github.com/ssuzana/github-readme-stats)
+
 -->
