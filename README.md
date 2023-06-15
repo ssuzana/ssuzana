@@ -6,11 +6,10 @@
 
 - I'm always eager to learn and keep up with the latest trends, and I would be happy to collaborate on Machine Learning projects. I believe I would be a valuable asset to any team working on advanced mathematical and technological projects.
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssuzana)](https://github.com/ssuzana/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ssuzana)](https://github.com/ssuzana/github-readme-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssuzana&layout=compact)
 <!--
 **ssuzana/ssuzana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
