@@ -6,7 +6,7 @@
 
 - I'm always eager to learn and keep up with the latest trends, and I would be happy to collaborate on Machine Learning projects. I believe I would be a valuable asset to any team working on advanced mathematical and technological projects.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssuzana&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssuzana&layout=donut)](https://github.com/ssuzana/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ssuzana)](https://github.com/ssuzana/github-readme-stats)
 
