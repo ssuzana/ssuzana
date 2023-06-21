@@ -7,7 +7,7 @@
 - I'm always eager to learn and keep up with the latest trends, and I would be happy to collaborate on Machine Learning projects. I believe I would be a valuable asset to any team working on advanced mathematical and technological projects.
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssuzana&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssuzana&langs_count=6&layout=compact)
 
 <!--
 **ssuzana/ssuzana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
