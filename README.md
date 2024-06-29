@@ -1,4 +1,4 @@
-### Hi there, I'm Suzana. I'm a Math Lecturer at  University of California, Santa Cruz (UCSC). 
+### Hi there! I'm Suzana, a Math Lecturer at University of California, Santa Cruz (UCSC). 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssuzana&hide_progress=true)
 
 <!--
